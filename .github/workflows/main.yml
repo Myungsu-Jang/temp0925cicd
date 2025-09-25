@@ -73,7 +73,7 @@ jobs:
 
 
   docker-rerun:
-    needs: build-and-deploy:
+    needs: build-and-deploy
     runs-on: ubuntu-latest
     # connect ssh
     # docker pull run
