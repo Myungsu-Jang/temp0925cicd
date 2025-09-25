@@ -36,7 +36,7 @@ jobs:
       - name: Check current directory
         run: pwd
 
-      # 내용물 확인..
+      # 내용물 확인...
       - name: Check ls
         run: ls -al
 
