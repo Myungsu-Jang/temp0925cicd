@@ -32,7 +32,7 @@ jobs:
 
             
 
-      # 경로 확인....
+      # 경로 확인...
       - name: Check current directory
         run: pwd
 
